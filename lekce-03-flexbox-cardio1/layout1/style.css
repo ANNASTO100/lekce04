@@ -19,4 +19,16 @@ nav {
 /* tady piš svoje CSS */
 /* -------------------------------------------- */
 
+body {
+	margin: 0
 
+}
+
+.main {
+	display: flex;
+}
+.article {
+	weight: 60vw;
+	height: 60vh
+	
+}
